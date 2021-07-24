@@ -21,3 +21,10 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+/src/AppDirective.vue
+/src/AppMixins.vue
+/src/colorDirective.js
+/src/focusDirective.js
+/src/notificationMixin.js
+/src/components
